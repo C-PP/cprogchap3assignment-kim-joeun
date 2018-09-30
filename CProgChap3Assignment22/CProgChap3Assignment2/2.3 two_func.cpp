@@ -1,4 +1,4 @@
-//* two_func.c -- a program using two functions in one file */
+/* two_func.c -- a program using two functions in one file */
 // main()에서 butler() 함수 호출을 실행하여 확인
 #include <stdio.h>
 void butler(void);
